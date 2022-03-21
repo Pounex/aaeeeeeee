@@ -12,3 +12,15 @@
 - Table tennis
 - Computer studies
 - Reading
+# Special skills
+- HTML
+- CSS
+- C++
+- Native Russian
+- English (A2)
+- computer literacy (Microsoft Office, Adobe Photoshop, Adobe illustrator, CorelDraw, Autodesk, Alitum Designer, SolidWorks)
+# Personal qualities:
+## reliable, easily trained, sociable and diligent, responsible, attentive and with developed logical thinking.
+# Links
+## [My profile](https://github.com/Pounex)
+## [My projects](https://github.com/Pounex/DZ7)
